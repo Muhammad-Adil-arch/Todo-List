@@ -1,8 +1,9 @@
+<p align="center"><a href="https://vuejs.org" target="_blank" rel="noopener noreferrer"><img width="100" src="https://vuejs.org/images/logo.png" alt="Vue logo"></a></p>
+
 # Todo-List
-          
-          
-          This is a simple Todo-List web application created in (Vue.js). It is used to manage your daily tasks.
-          It is a very simple application showing the use of computed and data properties of Vue.js
+  
+ This is a simple Todo-List web application created in (Vue.js). It is used to manage your daily tasks.
+ It is a very simple application showing the use of computed and data properties of Vue.js
           
 # How to use
 
